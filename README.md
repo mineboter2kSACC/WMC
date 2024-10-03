@@ -1,2 +1,2 @@
 # WMC
-Repository for WMC Class
+Repository for WMC Studies
