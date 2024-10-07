@@ -1,0 +1,48 @@
+.backround
+{
+    background-color: black;
+}
+.textbackround1
+{
+    background-color: whitesmoke;
+}
+.textfond
+{
+    font-style:italic ;
+}
+.h1
+{
+    text-align: center; font-style: initial; color: darkred; font-size: 300%;
+}
+.h2
+{
+    text-align: center; font-style: unset; color: darkorange;
+}
+.darkmode
+{
+    text-align: right; color: black;
+}
+.darkmode2
+{
+    text-align: right; color: white;
+}
+.p1
+{
+    text-align:center; color: black; font-style: normal; font-weight:bold;align-items: center;
+}
+.p2
+{
+    text-align: center; color: white; font-style: normal;
+}
+.mepicture
+{
+    align-content: center; size: 100px 200px;
+}
+.body
+{
+    text-align: center;
+}
+.body2
+{
+    text-align: center; background-color: black;
+}
