@@ -1,0 +1,39 @@
+img:only-of-type {
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+li:last-child {
+    color: red;
+}
+
+li:first-child {
+    color: blue
+}
+
+body h1 {
+    text-align: center;
+    color: yellow;
+}
+
+html {
+    background-color: black;
+    color: white;
+}
+
+section p {
+    text-align: center;
+}
+
+ul>li {
+    text-align: center;
+    list-style-type: none;
+}
+
+h2 {
+    text-align: center;
+}
