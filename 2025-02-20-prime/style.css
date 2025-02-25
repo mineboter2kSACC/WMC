@@ -1,0 +1,40 @@
+.button {
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+
+#numberIn {
+    border-radius: 0px;
+    border-style: solid;
+}
+
+body {
+    background-color: gray;
+    text-align: center;
+
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    z-index: 69420;
+    opacity: 1;
+}
+
+#overlay {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
